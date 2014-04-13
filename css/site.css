@@ -1,0 +1,152 @@
+body
+{
+padding-top: 55px;
+padding-bottom: 20px;
+padding-left: 10px;
+padding-right: 10px;
+
+min-width: 360px;
+
+background-color: #000000;
+}
+
+.custom-well
+{
+border-radius: 0px;
+border-color: #000000;
+background-color: #FFAD00;
+}
+
+a.custom
+{
+color: #FFFFFF;
+text-decoration: underline;
+}
+
+.no-margins
+{
+margin: 0px 0px 0px 0px !important;
+}
+
+.small-padding
+{
+padding: 4px 15px 4px 15px !important;
+}
+
+img.calculating
+{
+height: 14px;
+width: 14px;
+}
+
+img.loading
+{
+height: 14px;
+width: 14px;
+}
+
+.font-size-10
+{
+font-size: 10px !important;
+}
+
+.font-size-12
+{
+font-size: 12px !important;
+}
+
+.font-size-14
+{
+font-size: 14px !important;
+}
+
+.font-size-16
+{
+font-size: 16px !important;
+}
+
+.height-16
+{
+height: 16px;
+}
+
+.height-14
+{
+height: 14px;
+}
+
+.text-striked
+{
+text-decoration:line-through;
+}
+
+.vertical-align-top{
+vertical-align: top !important;
+}
+
+.vertical-align-middle{
+vertical-align: middle !important;
+}
+
+.no-corners{
+border-radius: 0px;
+}
+
+
+.min-width-900
+{
+min-width: 900px;
+}
+
+.width-200{
+width: 200px;
+}
+
+.width-300{
+width: 300px;
+}
+
+.width-400{
+width: 400px;
+}
+
+.width-500{
+width: 500px;
+}
+
+.width-600{
+width: 600px;
+}
+
+
+p.text-align-right{
+text-align: right;
+}
+
+.background-color-green{
+background-color: #66FF84;
+}
+
+.background-color-red{
+background-color: #FF6684;
+}
+
+.background-color-black
+{
+background-color: #fff;
+}
+
+.background-color-pink
+{
+background-color: rgba(224, 0, 255, 0.67);
+}
+
+.margin-right-10
+{
+margin-right: 10px;
+}
+
+.margin-left-10
+{
+margin-left: 10px;
+}
